@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="38061eef-83d9-4393-a0d9-700f8d1c2b5a" name="74pytorch_whale" url="http://172.31.233.74">
+        <fileTransfer host="172.31.233.74" port="22" rootFolder="/home/siting/files/DingGuo/pytorch_whale" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
